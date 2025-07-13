@@ -1,0 +1,27 @@
+{
+  "item": {
+    "name": "World of Race",
+    "description": "《马力欧卡丁车 世界》风格表盘",
+    "preview": ["preview0.png","preview1.png","preview2.png","preview3.png"],
+    "icon": "icon.png",
+    "source_url": "",
+    "author": [{
+      "name": "hrsthrt74",
+      "author_url": "https://www.bandbbs.cn/members/296762/"
+    }]
+  },
+  "downloads": {
+    "n67": {
+      "version": "v1.2",
+      "file_name": "World of Race for Band9Pro v1.2 by hrsthrt74.bin"
+    },
+    "o65": {
+      "version": "v1.2",
+      "file_name": "World of Race for RW5 v1.2 by hrsthrt74.bin"
+    },
+    "o65m": {
+      "version": "v1.2",
+      "file_name": "World of Race for RW5 v1.2 by hrsthrt74.bin"
+    }
+  }
+}
